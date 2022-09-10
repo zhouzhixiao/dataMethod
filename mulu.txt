@@ -8,3 +8,6 @@ cat ~/.ssh/id_rsa.pub
 user-select: text;
 git config --global --unset https.proxy
 git config --global --unset http.proxy
+
+
+cccccccccc
