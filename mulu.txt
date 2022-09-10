@@ -1,6 +1,6 @@
 你好啊
-git config --global user.name "zhouzxb"
-git config --global user.email "845026968@qq.com"
+git config --global user.name xxx
+git config --global user.email "xxxx@qq.com"
 
 ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub
